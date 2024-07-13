@@ -1,0 +1,127 @@
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe.config
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.pdb
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csprojResolveAssemblyReference.cache
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Form1.resources
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Properties.Resources.resources
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.GenerateResource.Cache
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.pdb
+c:\users\gerardo\documents\visual studio 2013\Projects\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.bañandose.resources
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe.config
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.pdb
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.pdb
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csprojResolveAssemblyReference.cache
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Form1.resources
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.bañandose.resources
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Properties.Resources.resources
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.GenerateResource.Cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe.config
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.pdb
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.pdb
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csprojResolveAssemblyReference.cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Form1.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.bañandose.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Properties.Resources.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.GenerateResource.Cache
+F:\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe.config
+F:\PokeGotchi\PokeGotchi\obj\Debug\Interop.WMPLib.dll
+F:\PokeGotchi\PokeGotchi\obj\Debug\AxInterop.WMPLib.dll
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.ResolveComReference.cache
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.pdb
+F:\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe
+F:\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.pdb
+F:\PokeGotchi\PokeGotchi\bin\Debug\Interop.WMPLib.dll
+F:\PokeGotchi\PokeGotchi\bin\Debug\AxInterop.WMPLib.dll
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csprojResolveAssemblyReference.cache
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Form1.resources
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.bañandose.resources
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Properties.Resources.resources
+F:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.GenerateResource.Cache
+E:\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe.config
+E:\PokeGotchi\PokeGotchi\obj\Debug\Interop.WMPLib.dll
+E:\PokeGotchi\PokeGotchi\obj\Debug\AxInterop.WMPLib.dll
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.ResolveComReference.cache
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.pdb
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csprojResolveAssemblyReference.cache
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Form1.resources
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.bañandose.resources
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.Properties.Resources.resources
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.GenerateResource.Cache
+E:\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.exe
+E:\PokeGotchi\PokeGotchi\bin\Debug\PokeGotchi.pdb
+E:\PokeGotchi\PokeGotchi\bin\Debug\Interop.WMPLib.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\AxInterop.WMPLib.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Data.v15.2.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Data.v15.2.xml
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe.licenses
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\Interop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.csproj.ResolveComReference.cache
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\Interop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Desktop\PokeGotchi\PokeGotchi\obj\Debug\PokeGotchi.exe.licenses

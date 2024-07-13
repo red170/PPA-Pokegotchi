@@ -1,0 +1,27 @@
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Release\PokeGotchi.exe.config
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Release\PokeGotchi.exe
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Release\PokeGotchi.pdb
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.csprojResolveAssemblyReference.cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.Form1.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.bañandose.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.Properties.Resources.resources
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.csproj.GenerateResource.Cache
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.exe
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.pdb
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Release\Interop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\bin\Release\AxInterop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\Interop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\AxInterop.WMPLib.dll
+C:\Users\( - ) RED ( - )\Documents\SkyFrame Inc\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.csproj.ResolveComReference.cache
+F:\PokeGotchi\PokeGotchi\bin\Release\PokeGotchi.exe.config
+F:\PokeGotchi\PokeGotchi\obj\Release\Interop.WMPLib.dll
+F:\PokeGotchi\PokeGotchi\obj\Release\AxInterop.WMPLib.dll
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.csproj.ResolveComReference.cache
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.exe
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.pdb
+F:\PokeGotchi\PokeGotchi\bin\Release\PokeGotchi.exe
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.csprojResolveAssemblyReference.cache
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.Form1.resources
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.bañandose.resources
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.Properties.Resources.resources
+F:\PokeGotchi\PokeGotchi\obj\Release\PokeGotchi.csproj.GenerateResource.Cache
